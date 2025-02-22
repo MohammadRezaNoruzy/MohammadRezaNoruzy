@@ -5,18 +5,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
 </h1>
 
-<h3 align="center">Interested in AI and Machine learning </h3>
+<h3 align="center">Interested in AI in Healthcare  </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 i'm beginner  
- 
- 🌱 I’m currently learning **AI & Machine learning**
-
-💬 Ask me about...
-
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
